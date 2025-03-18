@@ -1,3 +1,6 @@
+def nova_metoda():
+    return "Ovo je nova metoda 2."
+
 def main():
     print("Hello world!")
 
